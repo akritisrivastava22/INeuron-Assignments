@@ -7,7 +7,7 @@ It consists  of all the sections of the home page of the site
 
  The design is responsive, adapting to different screen sizes using media queries.
 
-### Checkout the live website [here]
+### Checkout the live website [here](https://discordclone-vert.vercel.app/)
 
 ## How the website looks like
 
